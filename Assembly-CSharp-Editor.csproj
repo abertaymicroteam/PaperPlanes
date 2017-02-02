@@ -81,7 +81,6 @@
      <None Include="Assets\HoloToolkit\Utilities\Shaders\StandardFast.shader" />
      <None Include="Assets\HoloToolkit\Utilities\Shaders\LambertianConfigurable.shader" />
      <None Include="Assets\HoloToolkit\Utilities\Shaders\BlinnPhongConfigurableTransparent.shader" />
-     <None Include="Assets\HoloToolkit\Utilities\Shaders\VertexLitConfigurableTransparent.shader" />
      <None Include="Assets\HoloToolkit\SpatialMapping\Shaders\Wireframe.shader" />
      <None Include="Assets\HoloToolkit\Input\Shaders\CursorShader.shader" />
      <None Include="Assets\HoloToolkit\Input\Shaders\SpecularHighlight.shader" />
@@ -91,6 +90,7 @@
      <None Include="Assets\HoloToolkit\Utilities\Shaders\LambertianConfigurableTransparent.shader" />
      <None Include="Assets\HoloToolkit\Utilities\Shaders\macro.cginc" />
      <None Include="Assets\HoloToolkit\Utilities\Shaders\HoloToolkitCommon.cginc" />
+     <None Include="Assets\HoloToolkit\Utilities\Shaders\VertexLitConfigurableTransparent.shader" />
      <None Include="Assets\HoloToolkit\Utilities\Shaders\FastConfigurable.shader" />
      <None Include="Assets\HoloToolkit\Input\Tests\Shaders\button_unlit_shader.shader" />
      <None Include="Assets\HoloToolkit\Utilities\Shaders\BlinnPhongConfigurable.cginc" />
